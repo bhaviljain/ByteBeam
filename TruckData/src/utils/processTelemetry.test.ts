@@ -73,3 +73,14 @@ it("should return Not Reported when SOC is missing", () => {
 
   expect(lastestSoc(data)).toBe("Not Reported");
 });
+
+it("should return Not Reported when spped is missing", () => {
+  const data = [
+    {
+      event_time: "2026-10-29T07:40:00Z",
+      signals: { soc: 60 },
+    },
+  ];
+
+  expect(lastestSppeed(data)).toBe("Not Reported");
+});
