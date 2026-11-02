@@ -84,3 +84,13 @@ about Vitest testing framework as well and how to implement and use it
 In staleData fucntion mainly and if somewhere else also if it was giving a certian logic which i wasnot able 
 undertsand, so i tried to make it in simpler way and only if i get to undertsand
 the logic and tell AI to dry run for me, and then only i implement it
+
+
+
+
+
+
+
+ChatGPT links
+https://chatgpt.com/share/6ae84a8a-c538-83ee-af95-bcb47184e4a5
+https://chatgpt.com/share/6ae84acd-c310-83ee-abd3-5393f555d3d8
